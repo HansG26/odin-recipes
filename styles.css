@@ -1,0 +1,18 @@
+* {
+    background-color: #e3f2fd;
+    color: #37474f;
+    font-family: 'Courier New', monospace;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul, ol, p {
+    font-weight: 500;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
